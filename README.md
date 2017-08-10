@@ -52,3 +52,4 @@ Now that we have our `nonAutomaticIssues`, let's print these out in a table in o
 
 - [MDN: Array.prototype.map()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - [MDN: Array.prototype.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+# currying-blog-code
